@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oneqxz</h1>
+<h1 align="center">Hi 👋, I'm 00110001011100010111100001111010</h1>
 <h3 align="center">cheel ti criiiinh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oneqxz&label=Profile%20views&color=0e75b6&style=flat" alt="oneqxz" /> </p>
@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/1qxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="1qxz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
